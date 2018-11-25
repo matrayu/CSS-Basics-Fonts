@@ -1,0 +1,20 @@
+main {
+    padding: 30px;
+}
+
+h1, h2 {
+    font-family: 'Anton', sans-serif;
+    font-weight: bold;
+    color: blue;
+}
+
+p {
+    font-family: 'Anton', sans-serif;
+    font-size: 12px;
+    color: coral;
+}
+
+hr {
+    width: 50%;
+    margin-left: 0%;
+}
